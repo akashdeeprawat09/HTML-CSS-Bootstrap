@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <style>
+            body{
+                margin:0;
+            }
+            div{
+                height:200px;
+                width:200px;
+                position: absolute;
+            }
+            .one
+            {
+                background-color: blue;
+                
+            }
+
+            .two
+            {
+                background-color: red;
+                left:200px; top: 200px;
+            }
+            .three
+            {
+                background-color: yellow;
+                left:400px; top:400px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="one">
+        </div>
+        <div class="two">
+        </div>
+        <div class="three">
+        </div>
+        
+    </body>          
+</html>
